@@ -2,15 +2,15 @@
 
 I'm Guilherme, a Full Stack Developer based in Brazil.
 
-I build scalable web systems and integrate AI to automate business processes. 
+I build scalable web systems and integrate AI to automate business processes.
 
-If there's a complex business problem or a manual task, chances are I'll build an automated solution to solve it. Recently, I built a proprietary CRM with an AI agent that reduced operational costs by 80%.
+Currently, I'm focusing on building AI agents for customer service and diving deep into Agent Engineering.
 
-My main tech stack is **TypeScript, Next.js, NestJS, and React**. For AI and automation, my favorite tools are **n8n and LLMs** alongside **PostgreSQL**.
+My main tech stack is **TypeScript, Next.js, NestJS, and React**. For data and automation, I use **PostgreSQL, n8n, and LLMs**. I also have a solid foundation in **Java** and I'm actively looking to build more with it.
 
-If you want to connect, exchange ideas, or check out my professional journey, feel free to reach out on my [LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN).
+If you want to connect, exchange ideas, or check out my professional journey, you can reach me on [LinkedIn](linkedin.com/in/guilherme-zorato/).
 
 **Fun Facts:**
-- I really enjoy customizing and painting furniture in my free time.
-- You will probably catch me listening to Matuê while coding.
-- **Hobbies:** sports, traveling, and spending time with my family.
+- I love playing video games and exploring new places through travel.
+- When I'm not coding, my favorite sports are skateboarding and karate 🛹🥋
+- **Hobbies:** gaming, sports, traveling, and building things.
