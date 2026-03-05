@@ -1,16 +1,16 @@
-### Olá! Eu sou o Guilherme Zorato 👋
+### Hey there! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoratoo&hide_progress=true)
+I'm Guilherme, a Full Stack Developer based in Brazil.
 
-### Tecnologias que eu uso no meu dia
-<div>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
+I build scalable web systems and integrate AI to automate business processes. 
 
+If there's a complex business problem or a manual task, chances are I'll build an automated solution to solve it. Recently, I built a proprietary CRM with an AI agent that reduced operational costs by 80%.
+
+My main tech stack is **TypeScript, Next.js, NestJS, and React**. For AI and automation, my favorite tools are **n8n and LLMs** alongside **PostgreSQL**.
+
+If you want to connect, exchange ideas, or check out my professional journey, feel free to reach out on my [LinkedIn](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN).
+
+**Fun Facts:**
+- I really enjoy customizing and painting furniture in my free time.
+- You will probably catch me listening to Matuê while coding.
+- **Hobbies:** sports, traveling, and spending time with my family.
