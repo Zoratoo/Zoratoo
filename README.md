@@ -8,7 +8,7 @@ Currently, I'm focusing on building AI agents for customer service and diving de
 
 My main tech stack is **TypeScript, Next.js, NestJS, and React**. For data and automation, I use **PostgreSQL, n8n, and LLMs**. I also have a solid foundation in **Java** and I'm actively looking to build more with it.
 
-If you want to connect, exchange ideas, or check out my professional journey, you can reach me on [LinkedIn](linkedin.com/in/guilherme-zorato/).
+If you want to connect, exchange ideas, or check out my professional journey, you can reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-zorato/).
 
 **Fun Facts:**
 - I love playing video games and exploring new places through travel.
